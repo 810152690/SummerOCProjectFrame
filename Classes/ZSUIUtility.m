@@ -10,4 +10,8 @@
 
 @implementation ZSUIUtility
 
+- (void)tag1{
+    NSLog(@"tag1");
+}
+
 @end

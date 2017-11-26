@@ -10,4 +10,6 @@
 
 @interface ZSUIUtility : NSObject
 
+- (void)tag1;
+
 @end
