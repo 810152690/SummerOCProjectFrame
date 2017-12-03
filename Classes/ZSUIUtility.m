@@ -11,6 +11,7 @@
 @implementation ZSUIUtility
 
 - (void)tag1{
+    NSInteger iWarn = 0;
     NSLog(@"tag1");
 }
 
